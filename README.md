@@ -1,5 +1,6 @@
 # UmaSingh
-Comprehensive Guide to Canine Welfare and Development
+<b>Comprehensive Guide to Canine Welfare and Development</b>
+
 Welcome to our dedicated GitHub repository, a dynamic and collaborative platform committed to the advancement of canine welfare and development. This digital sanctuary is meticulously crafted for developers, dog lovers, professional veterinarians, animal welfare advocates, and anyone who harbors a deep passion for creating a safer, healthier, and happier world for our canine companions. Our mission transcends mere conversation; we are here to ignite change through the compilation and development of innovative open-source tools, comprehensive educational content, and proactive community initiatives. We aim to bridge the gap between technological advancement and animal welfare, thereby enhancing the lives of dogs not just locally, but on a global scale.
 
 Our community is a woven with diverse threads — each member brings a unique set of skills, experiences, and insights, contributing to a rich, inclusive, and enlightening environment. Whether you are here to share knowledge, develop tools, or simply seek guidance on dog care, your involvement is a step towards a brighter future for our four-legged friends. Together, we embark on this noble journey, leveraging technology and compassion to make tangible improvements in the lives of dogs worldwide.
